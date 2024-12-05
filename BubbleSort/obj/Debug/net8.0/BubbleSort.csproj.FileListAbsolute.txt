@@ -1,0 +1,14 @@
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.exe
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.deps.json
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.runtimeconfig.json
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.dll
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.pdb
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfo.cs
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.dll
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\obj\Debug\net8.0\refint\BubbleSort.dll
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.pdb
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.genruntimeconfig.cache
+C:\Users\isard\Documents\Programació\T2\Sort\BubbleSort\BubbleSort\obj\Debug\net8.0\ref\BubbleSort.dll
